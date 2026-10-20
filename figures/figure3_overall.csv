@@ -1,0 +1,428 @@
+structure_key,prototype,family,n_elements,n_formula,s_conf_over_r,s_conf_per_atom,delta_percent,mean_abs_pct
+row075_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,6,11,3.49871,0.318064,4.0639,1.35349
+row076_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.74769,0.24979,7.8036,9.34724
+row077_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.08349,0.280318,6.3722,9.38084
+row078_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,6,11,3.51639,0.319671,7.4816,2.60324
+row079_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.16914,0.288104,2.9249,1.30665
+row080_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,2.97808,0.270734,7.628,8.8946
+row081_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.72873,0.248066,2.61,0.705958
+row082_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.7664,0.251491,2.3369,1.36173
+row083_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.14954,0.286322,6.5483,9.21457
+row084_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.15703,0.287002,3.6209,1.36698
+row085_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.45683,0.223348,2.4006,1.69227
+row086_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.69003,0.244548,2.7503,1.53988
+row087_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,6,11,3.45646,0.314223,7.0259,1.76138
+row088_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,3,11,2.15511,0.195919,8.1404,9.92333
+row089_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,7,11,3.83751,0.348864,3.5001,1.27727
+row090_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.16566,0.287787,7.0198,9.04024
+row091_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.7664,0.251491,6.3564,9.47582
+row092_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.19298,0.290271,4.4039,1.46971
+row093_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.08438,0.280398,7.987,8.73465
+row094_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,5,11,3.10749,0.282499,3.1382,1.17683
+row095_Gd2Si2O7,Gd2Si2O7,Gd2Si2O7,4,11,2.70977,0.246343,2.1801,1.52873
+row097_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.75863,0.344829,1.3749,2.12581
+row098_Gd2SiO5,Gd2SiO5,Gd2SiO5,6,8,3.46189,0.432737,8.5295,2.98617
+row099_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.1808,0.3976,2.4194,2.41208
+row100_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.17682,0.397102,1.6758,2.04242
+row101_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.17157,0.396446,3.5496,2.24227
+row102_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.20085,0.400106,2.2967,1.84437
+row103_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.74808,0.34351,1.4989,1.87022
+row104_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.70571,0.338214,1.7095,2.09403
+row105_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.1828,0.39785,2.0604,2.25494
+row106_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.18312,0.39789,2.8357,2.17518
+row107_Gd2SiO5,Gd2SiO5,Gd2SiO5,6,8,3.50276,0.437844,2.3615,2.39426
+row108_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.73382,0.341727,3.127,2.3557
+row109_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.73382,0.341727,2.7037,2.46775
+row110_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.1698,0.396225,2.2137,2.19615
+row111_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.17682,0.397102,3.0575,1.82598
+row112_Gd2SiO5,Gd2SiO5,Gd2SiO5,3,8,2.17891,0.272364,4.6514,2.21537
+row113_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.21682,0.277102,3.3523,2.33295
+row114_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.1928,0.3991,1.9874,2.51134
+row115_Gd2SiO5,Gd2SiO5,Gd2SiO5,3,8,2.17365,0.271706,0.8885,2.27913
+row116_Gd2SiO5,Gd2SiO5,Gd2SiO5,4,8,2.74808,0.34351,2.8902,3.16047
+row117_Gd2SiO5,Gd2SiO5,Gd2SiO5,3,8,2.17365,0.271706,1.749,2.15858
+row118_Gd2SiO5,Gd2SiO5,Gd2SiO5,5,8,3.19853,0.399816,8.4121,3.4447
+row125_KCoO2,KCoO2,KCoO2,5,4,1.22753,0.306882,15.116,2.95381
+row126_KCoO2,KCoO2,KCoO2,7,4,1.35505,0.338761,14.1595,2.76835
+row127_KCoO2,KCoO2,KCoO2,6,4,0.486027,0.121507,9.9788,3.3354
+row128_KCoO2,KCoO2,KCoO2,5,4,1.59505,0.398763,11.5637,2.1243
+row129_KCoO2,KCoO2,KCoO2,5,4,0.89538,0.223845,6.1417,3.0175
+row144_LaTaO4,LaTaO4,LaTaO4,8,6,2.07944,0.346574,4.8187,4.51884
+row145_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,2.5378,4.48637
+row146_LaTaO4,LaTaO4,LaTaO4,10,6,2.29968,0.38328,5.2469,4.46874
+row147_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,2.9712,5.32531
+row148_LaTaO4,LaTaO4,LaTaO4,6,6,1.79077,0.298462,4.871,3.69198
+row149_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,4.9307,4.68176
+row150_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,5.2153,23.2083
+row151_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,4.9528,4.20411
+row152_LaTaO4,LaTaO4,LaTaO4,3,6,1.09837,0.183062,3.1863,4.76074
+row153_LaTaO4,LaTaO4,LaTaO4,6,6,1.79077,0.298462,3.3006,4.62802
+row681_LaTaO4,LaTaO4,LaTaO4,5,6,1.60894,0.268157,5.441,3.9254
+row195_NaCoO2,NaCoO2,NaCoO2,7,4,0.576704,0.144176,6.9951,3.03166
+row196_NaCoO2,NaCoO2,NaCoO2,6,4,0.724517,0.181129,12.3672,2.85187
+row197_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,15.1439,5.06478
+row199_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,17.1778,5.31512
+row200_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,19.4775,5.15848
+row201_NaCoO2,NaCoO2,NaCoO2,8,4,1.51284,0.378211,16.2567,4.98557
+row202_NaCoO2,NaCoO2,NaCoO2,4,4,1.38629,0.346574,19.1977,7.98997
+row203_NaCoO2,NaCoO2,NaCoO2,6,4,1.75242,0.438106,18.7295,2.1387
+row204_NaCoO2,NaCoO2,NaCoO2,9,4,2.15196,0.53799,8.4778,1.85734
+row205_NaCoO2,NaCoO2,NaCoO2,5,4,1.50479,0.376197,21.1427,1.70965
+row206_NaCoO2,NaCoO2,NaCoO2,6,4,1.7219,0.430476,15.243,1.60267
+row207_NaCoO2,NaCoO2,NaCoO2,9,4,1.14358,0.285894,18.6882,2.67626
+row208_NaCoO2,NaCoO2,NaCoO2,5,4,1.29927,0.324819,14.1645,1.73689
+row209_NaCoO2,NaCoO2,NaCoO2,8,4,1.14835,0.287086,12.1907,1.92328
+row211_NaCoO2,NaCoO2,NaCoO2,5,4,1.42084,0.355209,12.7261,1.98118
+row212_NaCoO2,NaCoO2,NaCoO2,5,4,1.37836,0.34459,12.7871,2.01278
+row213_NaCoO2,NaCoO2,NaCoO2,5,4,1.58869,0.397171,11.4821,2.37429
+row215_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,17.1778,1.42687
+row216_NaCoO2,NaCoO2,NaCoO2,8,4,2.04232,0.510579,14.6387,2.05566
+row218_NaCoO2,NaCoO2,NaCoO2,5,4,1.2376,0.309399,14.6371,1.73811
+row219_NaCoO2,NaCoO2,NaCoO2,5,4,0.995104,0.248776,14.4537,1.89236
+row220_NaCoO2,NaCoO2,NaCoO2,7,4,1.83091,0.457728,19.0577,1.78135
+row221_NaCoO2,NaCoO2,NaCoO2,5,4,1.18372,0.29593,13.3943,2.10456
+row222_NaCoO2,NaCoO2,NaCoO2,4,4,0.907408,0.226852,15.5651,1.99316
+row223_NaCoO2,NaCoO2,NaCoO2,8,4,1.06016,0.265041,14.6087,2.01047
+row224_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,16.6475,2.04155
+row225_NaCoO2,NaCoO2,NaCoO2,7,4,1.51911,0.379777,14.5106,1.82476
+row226_NaCoO2,NaCoO2,NaCoO2,6,4,1.74807,0.437017,7.8702,1.92295
+row227_NaCoO2,NaCoO2,NaCoO2,5,4,1.55711,0.389278,11.0305,1.68542
+row228_NaCoO2,NaCoO2,NaCoO2,5,4,1.60944,0.402359,15.1439,1.6137
+row229_NaCoO2,NaCoO2,NaCoO2,7,4,1.81738,0.454346,15.1458,1.67234
+row230_NaCoO2,NaCoO2,NaCoO2,5,4,1.55711,0.389278,19.0691,1.90146
+row231_NaCoO2,NaCoO2,NaCoO2,8,4,1.47573,0.368933,14.0434,1.85436
+row232_NaCoO2,NaCoO2,NaCoO2,7,4,1.84815,0.462037,14.3474,1.7872
+row233_NaCoO2,NaCoO2,NaCoO2,5,4,1.08906,0.272265,14.6817,1.87019
+row234_NaCoO2,NaCoO2,NaCoO2,5,4,1.51486,0.378714,11.6919,2.08593
+row236_NaCoO2,NaCoO2,NaCoO2,7,4,1.75242,0.438106,12.6522,1.92937
+row237_NaCoO2,NaCoO2,NaCoO2,6,4,1.62152,0.405379,13.0057,1.80128
+row238_NaCoO2,NaCoO2,NaCoO2,5,4,1.56277,0.390692,19.7244,1.84835
+row239_NaCoO2,NaCoO2,NaCoO2,6,4,1.79136,0.447839,14.1287,1.70197
+row240_NaCoO2,NaCoO2,NaCoO2,6,4,0.990254,0.247563,12.7017,4.7819
+row241_NaCoO2,NaCoO2,NaCoO2,6,4,0.745908,0.186477,12.0468,2.3643
+row242_NaCoO2,NaCoO2,NaCoO2,7,4,0.47487,0.118717,8.6282,2.56051
+row244_NaCoO2,NaCoO2,NaCoO2,6,4,0.419816,0.104954,8.3127,2.88697
+row245_NaCoO2,NaCoO2,NaCoO2,6,4,1.01372,0.25343,8.4465,4.90006
+row246_NaCoO2,NaCoO2,NaCoO2,7,4,1.23911,0.309777,6.1522,4.36672
+row247_NaCoO2,NaCoO2,NaCoO2,5,4,0.481742,0.120436,7.0096,3.79229
+row248_NaCoO2,NaCoO2,NaCoO2,5,4,0.489572,0.122393,11.2445,2.99462
+row249_NaCoO2,NaCoO2,NaCoO2,7,4,0.774956,0.193739,10.5441,7.86906
+row250_NaCoO2,NaCoO2,NaCoO2,6,4,0.745908,0.186477,12.0813,5.02489
+row251_NaCoO2,NaCoO2,NaCoO2,6,4,1.79136,0.447839,17.8249,7.6385
+row266_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,18.2982,4.21215
+row267_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,8.0957,3.65064
+row268_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,10.1266,3.45339
+row269_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,6.504,3.57231
+row270_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,11.9189,2.06333
+row271_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,13.3016,1.80739
+row272_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,6.504,0.7834
+row273_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,2.30259,0.460517,6.504,2.1955
+row274_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,6,5,1.6562,0.331239,10.4997,3.66712
+row275_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.53103,0.306206,5.4019,3.87055
+row276_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,3,5,1.7916,0.358321,7.6681,2.63869
+row277_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,2.48475,0.49695,7.06,4.19843
+row278_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,6.504,1.01356
+row279_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,13.3016,4.84981
+row280_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,10.2654,3.4411
+row281_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,8,5,2.02533,0.405065,13.3311,3.92011
+row282_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,12.2647,3.84616
+row283_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.38629,0.277259,7.401,2.50673
+row284_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,6.7298,2.27486
+row285_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,3.3655,2.6921
+row286_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,3,5,1.1269,0.22538,5.1698,1.34118
+row291_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.80795,0.361591,17.7097,3.47081
+row292_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,21.2477,3.76555
+row293_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,17.7097,3.41686
+row294_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,6,5,1.79114,0.358228,9.9044,3.98379
+row295_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.60944,0.321888,11.0029,7.71229
+row296_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,6,5,2.10136,0.420271,13.3432,4.26591
+row297_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.80795,0.361591,10.776,3.09234
+row298_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.67904,0.335809,14.7234,4.27818
+row299_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,7,5,1.62395,0.32479,7.2758,2.52686
+row300_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.94304,0.388609,14.5935,3.88883
+row301_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.82579,0.365158,8.4658,4.21859
+row302_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,2.30259,0.460517,5.6986,5.47765
+row303_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.75134,0.350267,13.7398,8.47264
+row304_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,4,5,1.59388,0.318776,8.8448,3.87638
+row305_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,6,5,2.38298,0.476595,13.2481,4.03517
+row306_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,3,5,2.09851,0.419702,12.923,3.38354
+row307_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,1.93452,0.386904,17.0783,3.26343
+row308_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,2.30259,0.460517,6.504,5.98421
+row309_Perovskite---Cubic,Perovskite---Cubic,cubic perovskite,5,5,2.30259,0.460517,6.504,5.09706
+row316_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,1.60925,0.459787,3.0296,0.97779
+row318_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,1.60925,0.459787,3.3512,1.48375
+row319_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,1.60925,0.459787,9.4727,2.68533
+row320_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,1.60925,0.459787,4.7787,1.80368
+row321_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,2.28131,0.421955,16.1787,1.62233
+row322_Perovskite---RP-Layered,Perovskite---RP-Layered,RP perovskite,5,7,0.856592,0.133868,4.6398,1.77629
+row323_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,8.7304,4.77826
+row324_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,8.7304,4.89987
+row325_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,8.7304,5.12849
+row326_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,8.7304,5.6777
+row327_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,8.7304,4.531
+row328_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,19.4775,5.34128
+row329_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,19.4775,4.08112
+row330_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,19.4775,4.55635
+row331_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,19.4775,4.99476
+row332_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,19.4775,5.73969
+row333_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,3.21772,0.643545,19.4775,5.03364
+row334_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,18.2982,4.8349
+row335_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,6.6074,3.96
+row336_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,7.4291,4.07318
+row337_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,11.4073,4.17005
+row338_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,16.6067,5.68822
+row339_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,16.6067,4.01013
+row340_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.69679,0.539357,6.7047,5.55363
+row341_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.28298,0.456597,6.6074,3.85305
+row342_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.28298,0.456597,3.6522,3.69224
+row343_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,7,5,2.40602,0.481205,12.3197,4.25659
+row344_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,1.49711,0.299423,13.9911,4.38026
+row345_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,10.1402,4.20447
+row346_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.30201,0.460402,15.7529,4.59488
+row347_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,7,5,2.40602,0.481205,12.7337,4.32195
+row348_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,7,5,2.40602,0.481205,14.055,4.24864
+row349_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,7,5,2.40602,0.481205,12.3197,4.61722
+row350_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,1.49711,0.299423,13.9911,3.89119
+row351_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,2.1947,0.43894,10.6535,4.29357
+row352_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.30201,0.460402,15.7529,4.23954
+row353_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,15.1866,4.01314
+row354_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,11.147,4.0554
+row355_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,10.7663,4.13467
+row356_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,7.2524,4.17907
+row357_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.15542,0.431083,7.0887,4.09717
+row358_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60154,0.320308,9.8711,4.18769
+row359_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,4,5,1.92602,0.385205,10.4472,3.95609
+row360_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,4,5,2.00179,0.400359,21.6585,3.83208
+row361_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,2.83149,0.566297,9.5902,4.21552
+row362_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,7.0887,4.19382
+row363_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.54831,0.509662,16.7351,4.84369
+row364_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,2.19026,0.438052,13.9911,4.47087
+row365_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.30201,0.460402,6.9227,16.2908
+row366_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,4,5,1.82252,0.364504,11.8532,4.72548
+row367_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,4,5,2.02729,0.405459,12.5563,4.24603
+row368_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.10147,0.420293,9.6139,4.05727
+row369_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,12.2641,3.91601
+row370_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,6,5,1.79176,0.358352,9.9044,3.8139
+row371_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.10147,0.420293,10.7663,4.20171
+row372_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,1.60886,0.321772,10.1402,4.16607
+row373_Perovskite--Orthorhombic,Perovskite--Orthorhombic,orthorhombic perovskite,5,5,2.10147,0.420293,14.2038,4.20265
+row629_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,16.3641,0.997773
+row630_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.57416,0.224881,5.9987,0.731191
+row631_Spinel---Ternary,Spinel---Ternary,ternary spinel,6,7,0.262367,0.0749621,8.8831,1.41864
+row632_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,9.9575,1.22751
+row633_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.87131,0.304811,9.9575,1.85085
+row634_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,3.2182,0.689636,19.523,1.58234
+row635_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,9.6092,0.744641
+row636_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,6.7437,0.951821
+row637_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,6.7437,0.737302
+row638_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60925,0.459787,19.4775,1.65532
+row640_Spinel---Ternary,Spinel---Ternary,ternary spinel,5,7,1.60894,0.229849,6.3564,0.588854
+row645_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.2182,0.689636,9.0424,2.21207
+row646_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.1781,0.682584,14.8945,1.55756
+row647_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20874,0.688026,10.0753,1.65192
+row648_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20938,0.688035,10.0803,1.541
+row649_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20124,0.686826,13.9586,1.76765
+row650_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.21123,0.688334,14.202,1.76361
+row651_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.21449,0.688934,10.2962,1.86716
+row652_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20373,0.687084,14.1991,1.81728
+row653_Spinel--Binary,Spinel--Binary,binary spinel,6,7,3.53771,0.759846,13.5955,1.98757
+row654_Spinel--Binary,Spinel--Binary,binary spinel,7,7,3.84138,0.825695,18.3193,1.98056
+row655_Spinel--Binary,Spinel--Binary,binary spinel,7,7,3.81601,0.820768,18.2996,1.99575
+row656_Spinel--Binary,Spinel--Binary,binary spinel,7,7,3.82474,0.82258,18.3993,2.22672
+row657_Spinel--Binary,Spinel--Binary,binary spinel,6,7,3.55238,0.762658,16.1071,2.00157
+row658_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.0917,0.66435,9.5323,1.72113
+row659_Spinel--Binary,Spinel--Binary,binary spinel,5,7,2.93634,0.630903,18.2877,1.65961
+row660_Spinel--Binary,Spinel--Binary,binary spinel,5,7,2.76077,0.586442,17.145,1.5353
+row661_Spinel--Binary,Spinel--Binary,binary spinel,6,7,3.55161,0.762391,19.7967,2.12021
+row662_Spinel--Binary,Spinel--Binary,binary spinel,6,7,3.57857,0.767052,19.8018,1.98035
+row663_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.21217,0.688602,8.606,2.12279
+row664_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.19595,0.685759,9.1098,2.11748
+row665_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.08258,0.661949,9.8392,1.72989
+row666_Spinel--Binary,Spinel--Binary,binary spinel,5,7,2.96746,0.63046,9.7254,1.75771
+row667_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20874,0.688026,14.9398,1.53052
+row668_Spinel--Binary,Spinel--Binary,binary spinel,5,7,2.97203,0.639898,17.5796,1.60165
+row669_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.19991,0.686387,11.4156,1.62698
+row670_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.21357,0.688845,10.8661,1.72279
+row671_Spinel--Binary,Spinel--Binary,binary spinel,5,7,3.20232,0.687017,15.0833,1.74948
+row682_Tungsten-Bronze,Tungsten-Bronze,tungsten bronze,4,9,1.75106,0.262631,7.0009,4.91077
+row683_Tungsten-Bronze,Tungsten-Bronze,tungsten bronze,5,9,1.60813,0.178681,7.3402,5.52815
+row684_Tungsten-Bronze,Tungsten-Bronze,tungsten bronze,6,9,1.22658,0.272574,33.4227,13.878
+row685_Tungsten-Bronze,Tungsten-Bronze,tungsten bronze,3,9,1.50512,0.213392,8.7496,4.9133
+row686_Tungsten-Bronze,Tungsten-Bronze,tungsten bronze,4,9,2.41463,0.398646,8.3483,2.43425
+row032_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,6.4586,4.62738
+row033_fluorite,fluorite,fluorite,4,3,1.38629,0.462098,13.6354,5.74064
+row034_fluorite,fluorite,fluorite,5,3,1.55958,0.51986,13.5379,6.60931
+row035_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,12.1792,5.86003
+row036_fluorite,fluorite,fluorite,5,3,1.55958,0.51986,14.4676,7.01969
+row037_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,12.5753,6.73791
+row038_fluorite,fluorite,fluorite,5,3,1.55958,0.51986,13.8294,5.7138
+row039_fluorite,fluorite,fluorite,5,3,1.55958,0.51986,13.7504,7.16575
+row040_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,12.5004,7.05566
+row041_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,10.3929,5.4094
+row042_fluorite,fluorite,fluorite,6,3,1.73287,0.577623,8.9044,7.23663
+row043_fluorite,fluorite,fluorite,5,3,1.29059,0.430198,15.0663,6.09946
+row044_fluorite,fluorite,fluorite,5,3,1.45473,0.48491,14.3753,6.69778
+row045_fluorite,fluorite,fluorite,5,3,1.29059,0.430198,15.3193,5.98346
+row046_fluorite,fluorite,fluorite,5,3,1.45473,0.48491,14.9745,5.72756
+row047_fluorite,fluorite,fluorite,5,3,1.29059,0.430198,15.1473,5.50266
+row048_fluorite,fluorite,fluorite,5,3,1.45473,0.48491,14.5658,5.28573
+row049_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,5.1302,4.24885
+row050_fluorite,fluorite,fluorite,6,3,1.49758,0.499193,25.931,6.17071
+row051_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,6.1383,3.84563
+row052_fluorite,fluorite,fluorite,6,3,1.49758,0.499193,26.6417,6.7467
+row053_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,10.3691,6.02298
+row054_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,12.6913,6.04717
+row055_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,11.1845,6.85896
+row056_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,4.5241,2.57359
+row057_fluorite,fluorite,fluorite,4,3,1.38629,0.462098,8.9299,4.6151
+row058_fluorite,fluorite,fluorite,7,3,1.84415,0.614717,8.607,4.88466
+row059_fluorite,fluorite,fluorite,5,3,1.60934,0.536447,8.4281,4.68276
+row060_fluorite,fluorite,fluorite,6,3,1.76722,0.589072,12.3166,5.3496
+row061_fluorite,fluorite,fluorite,6,3,1.73448,0.578161,11.4935,4.5464
+row378_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,1.9285,0.941765
+row379_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.4872,0.993401
+row380_pyrochlore,pyrochlore,pyrochlore,6,11,1.79077,0.325595,3.9458,2.25364
+row381_pyrochlore,pyrochlore,pyrochlore,7,11,1.9452,0.353672,4.2907,3.25044
+row382_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.7826,1.11473
+row383_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.3499,1.627
+row384_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.507,1.68584
+row385_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.4457,2.38824
+row386_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.305,1.28773
+row387_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.2385,1.14107
+row388_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,6.6537,1.36771
+row389_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,6.6537,1.70568
+row390_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,7.6681,2.20422
+row391_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,7.6681,1.58277
+row392_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,1.7649,0.421216
+row393_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,1.7649,0.809258
+row394_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,1.8736,0.544504
+row395_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,0.9957,0.824027
+row396_pyrochlore,pyrochlore,pyrochlore,3,11,2.19674,0.399407,1.7649,0.816787
+row397_pyrochlore,pyrochlore,pyrochlore,4,11,2.48466,0.451757,6.6537,1.32184
+row398_pyrochlore,pyrochlore,pyrochlore,4,11,2.77259,0.504107,6.6537,1.45187
+row399_pyrochlore,pyrochlore,pyrochlore,4,11,2.34033,0.425514,7.8667,1.42879
+row400_pyrochlore,pyrochlore,pyrochlore,3,11,1.9344,0.351709,0.9957,1.27663
+row401_pyrochlore,pyrochlore,pyrochlore,3,11,1.09837,0.199704,0.9957,0.724233
+row402_pyrochlore,pyrochlore,pyrochlore,4,11,2.42602,0.441094,3.4672,1.795
+row403_pyrochlore,pyrochlore,pyrochlore,7,11,2.63834,0.479699,3.3903,1.07145
+row404_pyrochlore,pyrochlore,pyrochlore,7,11,3.04357,0.553376,3.3903,0.968652
+row405_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,1.3529,5.24921
+row406_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,6.8804,3.33531
+row407_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,5.8516,3.2881
+row408_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.0296,0.790721
+row409_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,7.1797,4.10646
+row410_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.4872,2.41847
+row411_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.5031,4.04704
+row412_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,6.5251,4.99881
+row413_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,11.9189,4.43919
+row414_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.2182,3.66256
+row415_pyrochlore,pyrochlore,pyrochlore,5,11,1.10391,0.200711,5.2765,1.17488
+row416_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,6.3659,6.28886
+row417_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.4233,6.36261
+row418_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,2.2741,9.32275
+row419_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,3.2765,2.40351
+row420_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.305,2.50161
+row421_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.4457,4.08492
+row422_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,6.1283,5.22463
+row423_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,6.0631,5.4839
+row424_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,5.9411,5.68807
+row425_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.2371,2.87787
+row426_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,6.1387,8.28882
+row427_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,4.3499,4.47082
+row428_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,11.9189,4.18246
+row429_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.8497,1.83655
+row430_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.9102,2.31995
+row431_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.6521,1.29488
+row432_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.9781,1.47233
+row433_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,5.5922,1.56286
+row434_pyrochlore,pyrochlore,pyrochlore,5,11,2.17128,0.394778,5.2025,4.3249
+row435_pyrochlore,pyrochlore,pyrochlore,3,11,1.09837,0.199704,14.4332,5.69661
+row436_pyrochlore,pyrochlore,pyrochlore,3,11,1.79152,0.32573,1.3875,2.61688
+row437_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,1.713,4.14076
+row438_pyrochlore,pyrochlore,pyrochlore,6,11,2.48392,0.451622,3.7721,2.92464
+row439_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,2.7623,5.90671
+row440_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,7.0617,5.17546
+row441_pyrochlore,pyrochlore,pyrochlore,5,11,1.08664,0.19757,3.0802,2.8796
+row442_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,10.2099,3.38778
+row443_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,5.2922,2.29095
+row444_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.2618,3.92934
+row445_pyrochlore,pyrochlore,pyrochlore,6,11,1.71308,0.31147,4.3886,4.90262
+row446_pyrochlore,pyrochlore,pyrochlore,3,11,1.09837,0.199704,7.2514,1.73684
+row447_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,11.9189,3.41632
+row448_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.2371,1.0915
+row449_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.4872,0.67508
+row450_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,14.7119,3.93034
+row451_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,18.5364,4.15439
+row452_pyrochlore,pyrochlore,pyrochlore,5,11,1.44567,0.262849,5.2838,4.8766
+row453_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,8.2885,2.66034
+row454_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.3582,4.80141
+row455_pyrochlore,pyrochlore,pyrochlore,5,11,2.11365,0.384299,4.6335,4.3559
+row456_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,4.6335,2.5943
+row457_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,7.4781,4.4983
+row459_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,8.6648,2.69595
+row460_pyrochlore,pyrochlore,pyrochlore,12,11,2.48107,0.451104,5.0515,4.35014
+row461_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.5516,2.67142
+row462_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.2657,0.867268
+row463_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,1.1448,1.18144
+row464_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,4.6335,4.37868
+row465_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,11.9189,4.57809
+row466_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,3.8862,1.08655
+row467_pyrochlore,pyrochlore,pyrochlore,4,11,1.38629,0.252054,1.2613,1.27077
+row468_pyrochlore,pyrochlore,pyrochlore,5,11,2.11365,0.384299,4.6335,3.26558
+row469_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,5.3522,1.03621
+row470_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,6.5166,1.3291
+row471_pyrochlore,pyrochlore,pyrochlore,5,11,2.30209,0.418562,9.5261,3.64736
+row472_pyrochlore,pyrochlore,pyrochlore,5,11,1.60894,0.292535,2.6819,4.87144
+row496_rock-salt,rock-salt,rock salt,4,2,1.38629,0.693147,2.9865,0.445184
+row497_rock-salt,rock-salt,rock salt,5,2,1.60936,0.804678,2.6888,1.41386
+row498_rock-salt,rock-salt,rock salt,6,2,1.73013,0.865066,19.0053,2.85017
+row499_rock-salt,rock-salt,rock salt,4,2,1.38629,0.693147,2.7892,1.44915
+row500_rock-salt,rock-salt,rock salt,4,2,1.38629,0.693147,2.5984,1.31089
+row501_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,3.3786,3.05112
+row502_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,3.019,1.96347
+row503_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,3.5821,8.6891
+row504_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,4.0249,6.45507
+row505_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,7.0521,2.974
+row506_rock-salt,rock-salt,rock salt,6,2,1.79176,0.89588,11.3706,6.97229
+row507_rock-salt,rock-salt,rock salt,6,2,1.74654,0.873271,5.5003,2.01338
+row508_rock-salt,rock-salt,rock salt,6,2,1.74654,0.873271,5.344,1.76329
+row509_rock-salt,rock-salt,rock salt,6,2,1.73013,0.865066,2.8172,1.27828
+row510_rock-salt,rock-salt,rock salt,6,2,1.74654,0.873271,5.2479,1.97191
+row511_rock-salt,rock-salt,rock salt,6,2,1.74654,0.873271,5.0866,1.9104
+row512_rock-salt,rock-salt,rock salt,6,2,1.74654,0.873271,5.4661,1.48986
+row513_rock-salt,rock-salt,rock salt,7,2,1.92552,0.962761,4.4894,1.69178
+row514_rock-salt,rock-salt,rock salt,4,2,1.32733,0.663667,10.2497,8.05808
+row515_rock-salt,rock-salt,rock salt,6,2,1.67709,0.838545,2.7436,1.31985
+row516_rock-salt,rock-salt,rock salt,6,2,1.70728,0.85364,2.7938,1.19801
+row517_rock-salt,rock-salt,rock salt,6,2,1.74264,0.87132,2.8396,1.14354
+row518_rock-salt,rock-salt,rock salt,6,2,1.7621,0.881048,2.8813,1.58124
+row519_rock-salt,rock-salt,rock salt,6,2,1.77287,0.886434,2.9192,1.48832
+row520_rock-salt,rock-salt,rock salt,6,2,1.78834,0.894168,3.0547,1.72816
+row521_rock-salt,rock-salt,rock salt,6,2,1.73983,0.869915,3.1101,2.48739
+row522_rock-salt,rock-salt,rock salt,7,2,1.76623,0.883117,3.5633,1.4497
+row523_rock-salt,rock-salt,rock salt,7,2,1.84804,0.924022,4.2545,1.48413
+row524_rock-salt,rock-salt,rock salt,7,2,1.89116,0.945581,4.8413,1.66535
+row526_rock-salt,rock-salt,rock salt,6,2,1.73013,0.865066,2.8172,1.24301
+row527_rock-salt,rock-salt,rock salt,6,2,1.73013,0.865066,4.0731,1.4277
+row528_rock-salt,rock-salt,rock salt,5,2,1.59493,0.797463,2.6777,1.29998
+row529_rock-salt,rock-salt,rock salt,5,2,1.56071,0.780355,2.6509,1.37336
+row530_rock-salt,rock-salt,rock salt,6,2,1.67709,0.838545,6.237,1.53506
+row531_rock-salt,rock-salt,rock salt,6,2,1.73013,0.865066,9.0628,1.35396
+row532_rock-salt,rock-salt,rock salt,6,2,1.77287,0.886434,11.983,2.154
+row533_rock-salt,rock-salt,rock salt,6,2,1.79076,0.895381,13.8912,2.68297
+row534_rock-salt,rock-salt,rock salt,5,2,1.59252,0.796261,2.7975,1.15526
+row535_rock-salt,rock-salt,rock salt,5,2,1.5987,0.79935,2.591,1.86683
+row536_rock-salt,rock-salt,rock salt,5,2,1.57983,0.789915,2.8277,0.997263
+row537_rock-salt,rock-salt,rock salt,5,2,1.60581,0.802903,2.736,1.23315
+row538_rock-salt,rock-salt,rock salt,5,2,1.60469,0.802345,2.6241,1.58602
+row539_rock-salt,rock-salt,rock salt,5,2,1.59493,0.797463,2.5743,1.73873
+row540_rock-salt,rock-salt,rock salt,6,2,1.72312,0.861559,2.8149,1.22251
+row541_rock-salt,rock-salt,rock salt,6,2,1.77287,0.886434,2.9156,1.44869
+row542_rock-salt,rock-salt,rock salt,6,2,1.79008,0.895039,2.9936,1.61815
+row543_rock-salt,rock-salt,rock salt,6,2,1.78941,0.894706,3.0509,1.93065
+row544_rock-salt,rock-salt,rock salt,6,2,1.78269,0.891347,3.0719,1.80255
+row545_rock-salt,rock-salt,rock salt,6,2,1.772,0.886001,3.089,2.15366
+row546_rock-salt,rock-salt,rock salt,6,2,1.75763,0.878817,3.101,2.33955
+row547_rock-salt,rock-salt,rock salt,6,2,1.73983,0.869915,3.1089,2.2147
+row610_rock-salt,rock-salt,rock salt,5,2,1.60581,0.802903,2.7396,1.49377
+row613_rock-salt,rock-salt,rock salt,5,2,1.60936,0.804678,6.2672,0.861406
