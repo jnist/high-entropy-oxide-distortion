@@ -21,9 +21,7 @@ code/
 figures/vesta/                renderings used in Figure 1
 ```
 
-The 14 families are rock salt (53), fluorite (30), cubic perovskite (40), Ruddlesden–Popper perovskite (6), ternary spinel (11), KCoO2 (5), NaCoO2 (51), binary spinel (27), pyrochlore (94), tungsten bronze (5), orthorhombic perovskite (51), Gd2SiO5 (22), LaTaO4 (11) and Gd2Si2O7 (21). One LaTaO4 entry is an isostructural phosphate. `row` in `compositions.csv` is the index of that composition in the source table, and it matches the `rowNNN` prefix of every structure file.
-
-KCoO2 uses the NaCoO2 conventional cell (`mp-867515_NaCoO2.vasp`), so `structures/prototypes/` contains 13 files for the 14 families.
+The 14 families are rock salt (53), fluorite (30), cubic perovskite (40), Ruddlesden–Popper perovskite (6), ternary spinel (11), KCoO2 (5), NaCoO2 (51), binary spinel (27), pyrochlore (94), tungsten bronze (5), orthorhombic perovskite (51), Gd2SiO5 (22), LaTaO4 (11) and Gd2Si2O7 (21). `row` in `compositions.csv` is the index of that composition in the source table, and it matches the `rowNNN` prefix of every structure file.
 
 ## Reproduce the figures
 
